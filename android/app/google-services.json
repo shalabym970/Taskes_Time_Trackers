@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726024810622",
+    "project_id": "tasks-time-tracker",
+    "storage_bucket": "tasks-time-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726024810622:android:08efa413d7cf2ddf7a682f",
+        "android_client_info": {
+          "package_name": "com.example.tasks_time_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726024810622-j97gom4oo2ekr0artmk637qlfjcnvqjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasks_time_tracker",
+            "certificate_hash": "8ed71399f04cc019cdc885a78880c1715238c71c"
+          }
+        },
+        {
+          "client_id": "726024810622-0s2bp10ss51ma82bsa6km94anahr821o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoiMWnEAii_FQ2rqLmTt4qewWD4mwptoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726024810622-0s2bp10ss51ma82bsa6km94anahr821o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">726024810622-0s2bp10ss51ma82bsa6km94anahr821o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">726024810622</string>
+    <string name="google_api_key" translatable="false">AIzaSyBoiMWnEAii_FQ2rqLmTt4qewWD4mwptoA</string>
+    <string name="google_app_id" translatable="false">1:726024810622:android:08efa413d7cf2ddf7a682f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBoiMWnEAii_FQ2rqLmTt4qewWD4mwptoA</string>
+    <string name="google_storage_bucket" translatable="false">tasks-time-tracker.appspot.com</string>
+    <string name="project_id" translatable="false">tasks-time-tracker</string>
+</resources>

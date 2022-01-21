@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tasks_time_tracker/BuildConfig.java
+ com.example.tasks_time_tracker.BuildConfig
