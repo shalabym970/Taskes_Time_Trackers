@@ -3,3 +3,5 @@ firebase_auth=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.da
 firebase_auth_web=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.6/
 firebase_core=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.11.0/
 firebase_core_web=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.5.3/
+google_sign_in=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.3/
+google_sign_in_web=/home/shalaby/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+4/

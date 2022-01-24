@@ -1,4 +1,3 @@
-import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:tasks_time_tracker/app/sign_in/sign_in_button.dart';
@@ -6,19 +5,24 @@ import 'package:tasks_time_tracker/app/sign_in/social_sign_in_button.dart';
 import 'package:tasks_time_tracker/services/auth.dart';
 
 class SignInPage extends StatelessWidget {
-  const SignInPage({Key? key, required this.onSignIn, required this.authBase}) : super(key: key);
-  final void Function(User) onSignIn;
+  const SignInPage({Key? key, required this.authBase}) : super(key: key);
   final AuthBase authBase;
 
   Future<void> _signInAnonymously() async {
     try {
-      final user = await authBase.signInAnonymously();
-      onSignIn(user!);
+      await authBase.signInAnonymously();
     } catch (e) {
       print(e.toString());
     }
   }
 
+  Future<void> _signInWithGoogle() async {
+    try {
+      await authBase.SignInWithGoogle();
+    } catch (e) {
+      print(e.toString());
+    }
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -52,7 +56,7 @@ class SignInPage extends StatelessWidget {
             text: 'Sign in with Google',
             textColor: Colors.black87,
             color: Colors.white,
-            onPressed: () {},
+            onPressed: _signInWithGoogle,
           ),
           const SizedBox(height: 8),
           SocialSignInButton(
