@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/shalaby/StudioProjects/time_tracker/build/app/intermediates/res/merged/debug/drawable_launch_background.xml.flat",
-        "source": "/home/shalaby/StudioProjects/time_tracker/android/app/src/main/res/drawable/launch_background.xml"
-    },
-    {
         "merged": "/home/shalaby/StudioProjects/time_tracker/build/app/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "/home/shalaby/StudioProjects/time_tracker/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
