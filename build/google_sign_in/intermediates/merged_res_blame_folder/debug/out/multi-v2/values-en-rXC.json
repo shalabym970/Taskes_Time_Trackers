@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shalaby/StudioProjects/time_tracker/build/google_sign_in/intermediates/res/merged/debug/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/home/shalaby/.gradle/caches/transforms-2/files-2.1/8caf69ec265aca8ea5a25ec57bbd8692/core-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shalaby/StudioProjects/time_tracker/build/google_sign_in/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/home/shalaby/.gradle/caches/transforms-2/files-2.1/8caf69ec265aca8ea5a25ec57bbd8692/core-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    }
+                }
+            ]
+        }
+    ]
+}
